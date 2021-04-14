@@ -16,7 +16,7 @@ namespace Sprint1
         {
             Console.WriteLine("Bitte wählen Sie ein Gewinde aus:");
 
-            foreach (string i in Gewinde_array2D)
+            foreach (string i in Gewinde_array2D) //
             {
                 Console.WriteLine(Gewinde_zahl1 + " = " + i);
                 Gewinde_zahl1 += 1;
