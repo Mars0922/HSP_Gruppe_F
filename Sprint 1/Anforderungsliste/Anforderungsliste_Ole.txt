@@ -60,4 +60,9 @@ Gewinde:
 
 - Liste mit versch. Gewindearten
 - Länge usw. variabel
+<<<<<<< HEAD:Sprint 1/Anforderungsliste/Anforderungsliste_Ole.txt
 - Begrenzt durch Schraubenkopf
+=======
+
+ye
+>>>>>>> 9893a9deec8c8b2409ba48714dcd27df69f44e63:Sprint 1/Ole/Anforderungsliste_Ole.txt
